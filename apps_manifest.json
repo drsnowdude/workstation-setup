@@ -1,0 +1,164 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-01-27T10:23:23.715-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Community"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "suse.opensuse-leap-42"
+				},
+				{
+					"PackageIdentifier" : "CloudImperiumGames.RSILauncher"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier" : "Citrix.Workspace"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "LLVM.LLVM"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Plex.Plex"
+				},
+				{
+					"PackageIdentifier" : "Resilio.ResilioSync"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "UnityTechnologies.Unity.2020"
+				},
+				{
+					"PackageIdentifier" : "UnityTechnologies.Unity.2020"
+				},
+				{
+					"PackageIdentifier" : "UnityTechnologies.UnityHub"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "darktable.darktable"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Nextcloud.NextcloudDesktop"
+				},
+				{
+					"PackageIdentifier" : "Rustlang.Rust.MSVC"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
+				},
+				{
+					"PackageIdentifier" : "GOG.Galaxy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x86"
+				},
+				{
+					"PackageIdentifier" : "Famatech.AdvancedIPScanner"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "Adobe.Acrobat.Reader.32-bit"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier" : "Twitch.Twitch"
+				},
+				{
+					"PackageIdentifier" : "Twitch.TwitchStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "BlenderFoundation.Blender"
+				},
+				{
+					"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "VMware.HorizonClient"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.1.13405"
+}
